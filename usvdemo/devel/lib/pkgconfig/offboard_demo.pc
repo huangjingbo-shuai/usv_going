@@ -1,0 +1,8 @@
+prefix=/home/yunxia/USV/usvdemo/devel
+
+Name: offboard_demo
+Description: Description of offboard_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
